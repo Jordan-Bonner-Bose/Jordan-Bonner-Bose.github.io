@@ -1,0 +1,3 @@
+[submodule "Bose-Frames-Web-SDK"]
+	path = Bose-Frames-Web-SDK
+	url = git@github.com:zakaton/Bose-Frames-Web-SDK.git
